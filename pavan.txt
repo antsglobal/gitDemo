@@ -1,4 +1,4 @@
-Hello this is the file changed by lokesh. Some more content added in the same line.
+Hello this is the file changed by lokesh. Some more content added in the same.
 
 This is the data added from Pavan.
 Welcome to git merge!
