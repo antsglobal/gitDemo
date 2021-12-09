@@ -8,3 +8,5 @@ Period means “this directory”
 This adds all your current files to the repository
 Type in git commit –m "Initial commit"
 You can use a different commit message, if you like
+
+Updated the branch to main
