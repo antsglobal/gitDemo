@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is pavan file mod
 pavan inserted second line
+=======
+Hello this is the file changed by lokesh
+>>>>>>> 78c1d5bcdb0e649ae76f206ee7d47ea66a17a7cc
