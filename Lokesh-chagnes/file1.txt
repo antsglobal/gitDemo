@@ -1,0 +1,10 @@
+cd  to the project directory you want to use
+Type in git init
+This creates the repository (a directory named .git)
+You seldom (if ever) need to look inside this directory
+Type in git add .
+The period at the end is part of this command!
+Period means “this directory”
+This adds all your current files to the repository
+Type in git commit –m "Initial commit"
+You can use a different commit message, if you like
