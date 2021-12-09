@@ -2,3 +2,5 @@ Hello this is the file changed by lokesh
 
 This is the data added from Pavan.
 Welcome to git merge!
+
+new line aded 3rd time.
